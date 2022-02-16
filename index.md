@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-
+###
 When I was a boy, I had a dog named bill.
 
 Here is a photo (.)))))))) (..) (.((((()
@@ -7,7 +7,7 @@ Here is a photo (.)))))))) (..) (.((((()
 
 ## I lied
 
-
+[Here is paper]([Timothy Schatz] Truth and Its Method_ Beyond the Limits of Reason in Nicholas of Cusa’s De Docta Ignorantia (Final Draft 11-17-21).pdf)
 You can use the [editor on GitHub](https://github.com/TimothySchatz/TimothySchatz.gihub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
