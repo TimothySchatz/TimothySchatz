@@ -3,6 +3,10 @@
 When I was a boy, I had a dog named bill.
 
 Here is a photo (.)))))))) (..) (.((((()
+[This is a link to my Dog](https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg)
+
+## I lied
+
 
 You can use the [editor on GitHub](https://github.com/TimothySchatz/TimothySchatz.gihub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
