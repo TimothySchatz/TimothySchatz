@@ -8,7 +8,7 @@ Here is a photo (.)))))))) (..) (.((((()
 ## I lied
 ###
 
-***fuck you*** **fuck***
+*fig*
 
 [Here is paper]([Timothy Schatz] Truth and Its Method_ Beyond the Limits of Reason in Nicholas of Cusa’s De Docta Ignorantia (Final Draft 11-17-21).pdf)
 You can use the [editor on GitHub](https://github.com/TimothySchatz/TimothySchatz.gihub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
