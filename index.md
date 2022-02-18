@@ -9,20 +9,15 @@ I am interested in the phenomenology of emotions, specifically guilt and forgive
 
 # Graduate Work
 
-## Publications
-(to be added) 
-
 ## Conferences
 
 "Man’s Place in the Cosmos: On the Tension of Transcendence and Subservience in On Learned Ignorance"
-God & the Human Person
+God & the Human Person,
 Boston College (2022)
 
 "Christian Mysticism: Isn’t it Nonsense?"
-Northeast Philosophy of Religion Colloquium
+Northeast Philosophy of Religion Colloquium,
 Fordham University (2022)
-
-
 
 ## Talks
 
