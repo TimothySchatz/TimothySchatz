@@ -21,7 +21,7 @@ I am interested in the phenomenology of emotions, specifically guilt and forgive
 # Undergraduate Work
 
 ## Publications
-[Here is paper]([Timothy Schatz] Truth and Its Method_ Beyond the Limits of Reason in Nicholas of Cusa’s De Docta Ignorantia (Final Draft 11-17-21).pdf)
+(to be added)
 
 ## Conference Papers
 (to be added) 
