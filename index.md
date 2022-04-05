@@ -29,20 +29,17 @@ February 2022
 "Christian Mysticism: Isn’t it Nonsense?"
 Northeast Philosophy of Religion Colloquium, Fordham University
 
+Apiril 2021
+"The Question of an Ethical Imperative on Us as Readers of the Nicomachean Ethics"
+Undergraduate Philosophy Conference, Pacific University Oregon
+
+May 2020
+"On the Phenomenological Deduction of Peirce’s Categories"
+Undergraduate Research Symposium, University of Oregon
+
 ## Talks
 
 Januaray 2022
 "Philosophy and Community"
 University of Oregon Philosophical Society, University of Oregon 
 
-# Undergraduate Work
-
-## Publications
-
-
-
-## Conference Papers
-(to be added) 
-
-## Talks
-(to be added) 
